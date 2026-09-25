@@ -23,7 +23,8 @@ I used a raw dataset of 500+ transactions and transformed it into an automated d
 - `dashboard_screenshot.png` - Preview Image
 
 ### 📸 Dashboard Preview
-[Add your screenshot here]
+<img width="1863" height="662" alt="Dashboard" src="https://github.com/user-attachments/assets/dd71a8ea-3644-44f4-939d-50c6d64c2b3c" />
+
 
 ### 🚀 How to Use
 1. Download `Sales_Dashboard.xlsx`
